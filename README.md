@@ -1,6 +1,8 @@
 # Capstone-2024
 **Title: Design & Optimization of Motor & Fan Assembly for an eVTOL Aircraft**
 
+**_Disclaimer: Metrics are redacted due to NDA_**
+
 _Supervisor: Dr. Sayyed Ali Hosseini (BSc, MSc, PhD, P.Eng)_
 
 _Team Members :Yulia Isaeva (me), Afraz Malik, Andy Zhou, Rabih Alameddine, Shil Patel, Ubaid Ubaid_
