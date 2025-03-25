@@ -8,8 +8,8 @@ _Team Members :Yulia Isaeva (me), Afraz Malik, Andy Zhou, Rabih Alameddine, Shil
 # Project Overview
 This capstone project, completed in partnership with Horizon Aircraft, focused on the design and optimization of an eVTOL propulsion system. The project centered around the Cavorite X7 propulsion system, a key component of Horizon Aircraft’s eVTOL development. My work primarily involved conducting CFD simulations, with a strong emphasis on boundary layer configurations and simulation results. Additionally, we developed MATLAB code to support these simulations and analyze the data. The project was a success, culminating in the optimization of the rotor efficiency, contributing valuable insights into the design and performance of eVTOL propulsion systems.
 
-<img src="https://github.com/user-attachments/assets/4bd5d92d-e5e5-42bd-9ecf-866c2c532c2d" alt="Exploded Assembly" width="500" />
-<img src="https://github.com/user-attachments/assets/64f50e6e-f920-46f9-a2b8-a79df5f2bf2a" alt="Cavorite X7" width="500" />
+![1  Rotor CAD Model](https://github.com/user-attachments/assets/838250c0-aeff-43ec-a9b4-8c100b551b4f)
+![x7](https://github.com/user-attachments/assets/0391e5ff-6fed-406a-bf66-e23c24b6ed00)
 
 # Literature Reveiw
 For the design and optimization of the Cavorite X7 propulsion system, we conducted extensive research and analysis:
